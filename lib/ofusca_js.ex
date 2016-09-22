@@ -1,0 +1,2 @@
+defmodule OfuscaJs do
+end
